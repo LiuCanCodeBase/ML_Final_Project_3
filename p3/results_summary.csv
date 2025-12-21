@@ -1,0 +1,19 @@
+Dataset,Model,Temperature,Pass@1 (%),Maj@1 (%),FileName
+math,base,t06,33.40,39.20,math_base_t06_eval.jsonl
+math,base,t10,27.55,40.00,math_base_t10_eval.jsonl
+math,base,t12,17.26,14.80,math_base_t12_eval.jsonl
+amc,base,t06,32.38,45.00,amc_base_t06_eval.jsonl
+amc,base,t10,22.85,37.50,amc_base_t10_eval.jsonl
+amc,base,t12,14.77,15.00,amc_base_t12_eval.jsonl
+aime,base,t06,3.75,6.67,aime_base_t06_eval.jsonl
+aime,base,t10,2.24,3.33,aime_base_t10_eval.jsonl
+aime,base,t12,1.51,0.00,aime_base_t12_eval.jsonl
+math,grpo,t06,72.74,78.40,math_grpo_t06_eval.jsonl
+math,grpo,t10,72.34,81.60,math_grpo_t10_eval.jsonl
+math,grpo,t12,70.93,81.80,math_grpo_t12_eval.jsonl
+amc,grpo,t06,48.63,57.50,amc_grpo_t06_eval.jsonl
+amc,grpo,t10,49.84,65.00,amc_grpo_t10_eval.jsonl
+amc,grpo,t12,49.73,67.50,amc_grpo_t12_eval.jsonl
+aime,grpo,t06,12.40,23.33,aime_grpo_t06_eval.jsonl
+aime,grpo,t10,10.78,23.33,aime_grpo_t10_eval.jsonl
+aime,grpo,t12,10.83,23.33,aime_grpo_t12_eval.jsonl
